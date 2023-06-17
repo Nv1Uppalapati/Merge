@@ -1,2 +1,6 @@
 A web app, short for web application, is a dynamic and interactive application that runs on a web server and is accessed through a web browser.
+
 Save the file with the updated changes.
+
+
+
